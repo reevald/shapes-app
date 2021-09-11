@@ -1,0 +1,6 @@
+circle
+kite
+parallelogram
+square
+trapezoid
+triangle
